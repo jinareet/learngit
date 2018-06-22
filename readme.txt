@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new brach is quick and simple.
 brach manager
+bug
